@@ -9,7 +9,7 @@ Yo!👋 I'm Aditya Raj, a curious developer from India.
 - 🌱 Also Learning Python.
 - 🤝 Looking for help with errors and bugs would also help to debug your's. 😎
 - 💬 Let's discuss about space, science, anime, and technology and much more. 🤔
-- 👨‍💻 Prefer logic building (cuz clarity is important).
+- 👨‍💻 I Prefer logic building (cuz clarity is important).
 - ⚡ Fun fact: People guess I'm boring, but that's definitely not the thing 😏
 I write,, sing and code.
 
