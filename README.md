@@ -6,7 +6,7 @@
 Yo!👋 I'm Aditya Raj, a curious developer from India. 
 
 - 🔭 Currently working on ![CSS Logo](https://img.icons8.com/color/24/000000/css3.png) CSS
-- 🌱 Learning ![Python Logo](https://img.icons8.com/color/24/000000/python.png) Python
+- 🌱 Also Parallely Learning ![Python Logo](https://img.icons8.com/color/24/000000/python.png) Python
 - 🤝 Looking for help with errors and bugs
 - 💬 Ask me about space, science, anime, and technology
 - ⚡ Fun fact: People guess I'm boring, but that's definitely not the thing 😏
