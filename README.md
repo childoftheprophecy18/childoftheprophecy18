@@ -1,4 +1,4 @@
- # Aditya Raj's Developer Profile
+ # Good to see you here 👀:
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge)](https://x.com/childofprophcy1?t=ZGAM2n45b-Wjb1Q6b3NkGw&s=09)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](http://www.linkedin.com/in/aditya-raj-11o2)
 
 ## About Me
@@ -9,7 +9,6 @@ Yo!👋 I'm Aditya Raj, a curious developer from India.
 - 🌱 Learning ![Python Logo](https://img.icons8.com/color/24/000000/python.png) Python
 - 🤝 Looking for help with errors and bugs
 - 💬 Ask me about space, science, anime, and technology
-- 📫 Reach me at: [aditraj11022002@gmail.com](mailto:aditraj11022002@gmail.com)
 - ⚡ Fun fact: People guess I'm boring, but that's definitely not the thing 😏
 I write,, sing and code.
 
