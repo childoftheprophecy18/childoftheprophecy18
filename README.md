@@ -5,8 +5,8 @@
 
 Yo!👋 I'm Aditya Raj, a curious developer from India. 
 
-- 🔭 Currently working on CSS will move to js after completion. 😅
-- 🌱 Also Learning Python.
+- 🔭 Currently working on CSS. 😅
+- 🌱 Learning Python.
 - 🤝 Looking for help with errors and bugs would also help to debug your's. 😎
 - 💬 Let's discuss about space, science, anime, and technology and much more. 🤔
 - 👨‍💻 I Prefer logic building (cuz clarity is important).
