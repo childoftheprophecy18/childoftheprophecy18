@@ -20,9 +20,4 @@ I'm Aditya Raj, a curious developer from India.
 
 ## Languages and Tools
 
-- [C](https://www.cprogramming.com/) ![C Logo](https://img.icons8.com/color/48/000000/c-programming.png)
-- [C++](https://www.w3schools.com/cpp/) ![C++ Logo](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-- [CSS](https://www.w3schools.com/css/) ![CSS Logo](https://img.icons8.com/color/48/000000/css3.png)
-- [HTML](https://www.w3.org/html/) ![HTML Logo](https://img.icons8.com/color/48/000000/html-5.png)
-- [Python](https://www.python.org) ![Python Logo](https://img.icons8.com/color/48/000000/python.png)
-- ![Limage](https://example.com/limage-logo.png) <!-- Replace with the actual URL for the Limage logo -->
+![C Logo](https://img.icons8.com/color/48/000000/c-programming.png) ![C++ Logo](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![CSS Logo](https://img.icons8.com/color/48/000000/css3.png) ![HTML Logo](https://img.icons8.com/color/48/000000/html-5.png) ![Python Logo](https://img.icons8.com/color/48/000000/python.png) 
