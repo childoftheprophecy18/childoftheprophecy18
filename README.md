@@ -1,4 +1,4 @@
-# Good to see you here 👀:
+# Good to have you here 👀:
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge)](https://x.com/childofprophcy1?t=ZGAM2n45b-Wjb1Q6b3NkGw&s=09)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](http://www.linkedin.com/in/aditya-raj-11o2)
 
 ## About Me
@@ -6,9 +6,10 @@
 Yo!👋 I'm Aditya Raj, a curious developer from India. 
 
 - 🔭 Currently working on CSS will move to js after completion. 😅
-- 🌱 Also Parallely Learning Python 
+- 🌱 Also Learning Python.
 - 🤝 Looking for help with errors and bugs would also help to debug your's. 😎
 - 💬 Let's discuss about space, science, anime, and technology and much more. 🤔
+- 👨‍💻 Prefer logic building (cuz clarity is important).
 - ⚡ Fun fact: People guess I'm boring, but that's definitely not the thing 😏
 I write,, sing and code.
 
