@@ -1,6 +1,6 @@
 # Aditya Raj's Developer Profile
 
-![Twitter](https://img.shields.io/twitter/follow/childofprophcy1?logo=twitter&style=for-the-badge)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Raj-blue?logo=linkedin&style=for-the-badge)](http://www.linkedin.com/in/aditya-raj-11o2)
+![Twitter](https://img.shields.io/twitter/childofprophcy1?logo=twitter&style=for-the-badge)[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](http://www.linkedin.com/in/aditya-raj-11o2)
 
 ## About Me
 
