@@ -1,6 +1,6 @@
 # Aditya Raj's Developer Profile
 
-![Twitter](https://img.shields.io/twitter/follow/childofprophcy1?logo=twitter&style=for-the-badge)[![LinkedIn](https://img.icons8.com/color/24/000000/linkedin.png)]
+![Twitter](https://img.shields.io/twitter/follow/childofprophcy1?logo=twitter&style=for-the-badge)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Raj-blue?logo=linkedin&style=for-the-badge)](http://www.linkedin.com/in/aditya-raj-11o2)
 
 ## About Me
 
@@ -12,8 +12,7 @@ Yo!👋 I'm Aditya Raj, a curious developer from India.
 - 💬 Ask me about space, science, anime, and technology
 - 📫 Reach me at: [aditraj11022002@gmail.com](mailto:aditraj11022002@gmail.com)
 - ⚡ Fun fact: People guess I'm boring, but that's definitely not the thing 😏
-
- (http://www.linkedin.com/in/aditya-raj-11o2)
+I write,, sing and code.
 
 ## Tools Languages and Frameworks:
 
